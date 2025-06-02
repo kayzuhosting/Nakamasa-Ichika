@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://files.catbox.moe/j2wwtl.jpeg"/>
+  <img src="https://files.catbox.moe/j2wwtl.jpeg" width="200" alt="Project Banner"/>
 </p>
 
 <p align="center">
-  <a href="#"><img title="Whatsapp Bot" src="https://img.shields.io/badge/Whatsapp%20Bot-GREEN?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+  <a href="#"><img title="Whatsapp Bot" src="https://img.shields.io/badge/Whatsapp%20Bot-ONLINE-green?style=for-the-badge&logo=whatsapp"></a>
   <a href="#"><img title="Bot Version" src="https://img.shields.io/badge/BOT-V1.0.0-blue?style=for-the-badge"></a>
   <a href="#"><img title="API" src="https://img.shields.io/badge/API-FREE-lightgrey?style=for-the-badge"></a>
 </p>
@@ -26,25 +26,75 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Welcome+to+Whatsapp+Bot+Project!;Easy+to+install+and+use!;Follow+my+social+media+below!">
+</p>
+
 ---
 
 ## 👤 Tentang Saya
 
 Halo semuanya!  
-Saya *Kay Ramadhan*, dikenal juga sebagai *Kayzu*, pengembang bot WhatsApp yang aktif di dunia pemrograman open-source.  
+Saya **Kay Ramadhan** (Kayzu), pengembang bot WhatsApp yang aktif di dunia pemrograman open-source.
 
-🎯 Fokus: Bot WhatsApp, API, & Tool Otomatisasi  
-📍 Domisili: 🇮🇩 Indonesia (Sumatera)  
-🧠 Skill: Node.js, Cheerio, WA Web API, JSON, Obfuscator  
-🔧 Aktif: Ngerjain proyek bareng tim & bantu komunitas digital
+- 🎯 **Fokus:** Bot WhatsApp, API, & Tool Otomatisasi  
+- 📍 **Domisili:** 🇮🇩 Indonesia (Sumatera)  
+- 🧠 **Skill:** Node.js, Cheerio, WA Web API, JSON, Obfuscator  
+- 🔧 **Aktif:** Kolaborasi proyek, bantu komunitas digital
+
+---
+
+## ✨ Fitur
+
+- ✅ Bot WhatsApp aktif 24 jam
+- ✅ Banyak command seru & auto-update
+- ✅ Bisa dijalankan di Termux/NodeJS
+- ✅ Gratis & open-source
 
 ---
 
 ## 🛠️ Tools
 
 Alat yang diperlukan:
+- WhatsApp
+- Termux (atau terminal NodeJS)
+- 2 Handphone (satu buat bot, satu buat scan QR)
 
-```bash
-whatsapp
-termux
-2 handphone
+---
+
+## 🚀 Cara Install
+
+**Scan QR** yang muncul di terminal untuk menghubungkan bot ke WhatsApp kamu.
+
+---
+
+<div align="center">
+<details>
+ <summary>😔 Help me!</summary>
+ 
+ [QRIS](https://f.uguu.se/cAupgKUa)
+ 
+</details>
+</div>
+
+---
+
+## 🙏 Thanks to
+
+- [Roy](https://github.com/Pxc7b)
+- [Riu](https://github.com/Pxc7)
+- [MhankBarBar](https://github.com/MhankBarBar)
+- [LolHuman](https://github.com/LoL-Human)
+
+---
+
+<p align="center">
+📫 <b>Follow Me On</b>
+</p>
+
+<p align="center">
+<a href="https://www.instagram.com/kayy_xydl" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://youtube.com/@kayzuhosting?si=sZqFX7Jk7IpV96uo" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://wa.me/6289673462138" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+</p>
+
