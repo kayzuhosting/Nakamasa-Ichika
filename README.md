@@ -1,1 +1,1 @@
-# -s-
+Sagiri Izumi –Kay
