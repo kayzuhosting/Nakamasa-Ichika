@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://n.uguu.se/HADaXpfE"/>
+<img src="https://d.uguu.se/SWbkXNGM"/>
 </p>
 <p align="center">
 <a href="#"><img title="selfbot-lolhuman" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
