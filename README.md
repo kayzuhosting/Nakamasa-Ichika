@@ -89,12 +89,26 @@ Alat yang diperlukan:
 ---
 
 <p align="center">
-📫 <b>Follow Me On</b>
+  <img src="https://img.shields.io/github/followers/kayzuhosting?color=blue&label=followers&style=flat-square">
+  <img src="https://img.shields.io/badge/stars-unavailable-lightgrey?style=flat-square">
+  <img src="https://img.shields.io/badge/forks-unavailable-lightgrey?style=flat-square">
+  <img src="https://img.shields.io/badge/Watchers-unavailable-lightgrey?style=flat-square">
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/kayy_xydl" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://youtube.com/@kayzuhosting?si=sZqFX7Jk7IpV96uo" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
-<a href="https://wa.me/6289673462138" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+  📫 <b>Follow Me On</b>
 </p>
+
+<p align="center">
+  <a href="https://www.instagram.com/kayy_xydl" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://youtube.com/@kayzuhosting?si=sZqFX7Jk7IpV96uo" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://wa.me/6289673462138" target="_blank">
+    <img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp">
+  </a>
+</p>
+
 
