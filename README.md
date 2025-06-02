@@ -89,10 +89,6 @@ Alat yang diperlukan:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/kayzuhosting?color=blue&label=followers&style=flat-square">
-</p>
-
-<p align="center">
   📫 <b>Follow Me On</b>
 </p>
 
@@ -104,7 +100,10 @@ Alat yang diperlukan:
     <img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://wa.me/6289673462138" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp">
+    <img src="https://img.shields.io/badge/Whatsapp-25D366.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp">
   </a>
+  <a href="https://www.tiktok.com/@kayzumd?_t=ZS-8wsJfQYJK6r&_r=1" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-010101.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <img src="https://img.shields.io/badge/@KayzuMD-User-blueviolet?style=flat-square&logo=github" alt="KayzuMD">
 </p>
-
