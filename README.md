@@ -90,9 +90,6 @@ Alat yang diperlukan:
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/kayzuhosting?color=blue&label=followers&style=flat-square">
-  <img src="https://img.shields.io/badge/stars-unavailable-lightgrey?style=flat-square">
-  <img src="https://img.shields.io/badge/forks-unavailable-lightgrey?style=flat-square">
-  <img src="https://img.shields.io/badge/Watchers-unavailable-lightgrey?style=flat-square">
 </p>
 
 <p align="center">
@@ -110,5 +107,4 @@ Alat yang diperlukan:
     <img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp">
   </a>
 </p>
-
 
