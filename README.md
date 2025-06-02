@@ -4,6 +4,8 @@
 
 <p align="center">
   <a href="#"><img title="Whatsapp Bot" src="https://img.shields.io/badge/Whatsapp%20Bot-GREEN?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+  <a href="#"><img title="Bot Version" src="https://img.shields.io/badge/BOT-V1.0.0-blue?style=for-the-badge"></a>
+  <a href="#"><img title="API" src="https://img.shields.io/badge/API-FREE-lightgrey?style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -24,36 +26,25 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
-<div align="center">
-<details>
-  <summary>😔 Help me!</summary>
+---
 
-  [QRIS](https://f.uguu.se/cAupgKUa)
-</details>
-</div>
+## 👤 Tentang Saya
 
-<p align="center">
-  📫 Follow Me On
-</p>
+Halo semuanya!  
+Saya *Kay Ramadhan*, dikenal juga sebagai *Kayzu*, pengembang bot WhatsApp yang aktif di dunia pemrograman open-source.  
 
-<p align="center">
-  <a href="https://www.instagram.com/kayy_xydl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://youtube.com/@kayzuhosting?si=sZqFX7Jk7IpV96uo" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://wa.me/6289673462138" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="Whatsapp">
-  </a>
-</p>
+🎯 Fokus: Bot WhatsApp, API, & Tool Otomatisasi  
+📍 Domisili: 🇮🇩 Indonesia (Sumatera)  
+🧠 Skill: Node.js, Cheerio, WA Web API, JSON, Obfuscator  
+🔧 Aktif: Ngerjain proyek bareng tim & bantu komunitas digital
 
 ---
 
 ## 🛠️ Tools
-Alat yg diperlukan:
+
+Alat yang diperlukan:
 
 ```bash
 whatsapp
 termux
-2 Handphone
+2 handphone
