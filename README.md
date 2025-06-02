@@ -7,24 +7,24 @@
 <p align="center">
 <a href="https://github.com/AkiRaID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-KAY RAMADHAN-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
-<p align="center">
+
+<<p align="center">
   <a href="https://github.com/kayzuhosting?tab=followers">
     <img title="Followers" src="https://img.shields.io/github/followers/kayzuhosting?color=blue&style=flat-square">
   </a>
-  <a href="https://github.com/kayzuhosting/quantum-bot/stargazers">
-    <img title="Stars" src="https://img.shields.io/github/stars/kayzuhosting/quantum-bot?color=red&style=flat-square">
+  <a href="https://github.com/kayzuhosting/Sagiri-Izumi-kay/stargazers">
+    <img title="Stars" src="https://img.shields.io/github/stars/kayzuhosting/Sagiri-Izumi-kay?color=red&style=flat-square">
   </a>
-  <a href="https://github.com/kayzuhosting/quantum-bot/network/members">
-    <img title="Forks" src="https://img.shields.io/github/forks/kayzuhosting/quantum-bot?color=red&style=flat-square">
+  <a href="https://github.com/kayzuhosting/Sagiri-Izumi-kay/network/members">
+    <img title="Forks" src="https://img.shields.io/github/forks/kayzuhosting/Sagiri-Izumi-kay?color=red&style=flat-square">
   </a>
-  <a href="https://github.com/kayzuhosting/quantum-bot/watchers">
-    <img title="Watching" src="https://img.shields.io/github/watchers/kayzuhosting/quantum-bot?label=Watchers&color=blue&style=flat-square">
+  <a href="https://github.com/kayzuhosting/Sagiri-Izumi-kay/watchers">
+    <img title="Watching" src="https://img.shields.io/github/watchers/kayzuhosting/Sagiri-Izumi-kay?label=Watchers&color=blue&style=flat-square">
   </a>
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkayzuhosting%2Fquantum-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkayzuhosting%2FSagiri-Izumi-kay&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/>
   </a>
 </p>
-
 
 <p align="center">
     <img
