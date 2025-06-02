@@ -5,14 +5,14 @@
 <a href="#"><img title="selfbot-lolhuman" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/AkiRaID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AKIRA-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/AkiRaID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-KAY RAMADHAN-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/AkiRaID/followers"><img title="Followers" src="https://img.shields.io/github/followers/AkiRaID?color=blue&style=flat-square"></a>
-<a href="https://github.com/AkiRaID/selfbot-lolhuman/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AkiRaID/selfbot-lolhuman?color=red&style=flat-square"></a>
-<a href="https://github.com/AkiRaID/selfbot-lolhuman/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AkiRaID/selfbot-lolhuman?color=red&style=flat-square"></a>
-<a href="https://github.com/AkiRaID/selfbot-lolhuman/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AkiRaID/selfbot-lolhuman?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAkiRaID%2Fselfbot-lolhuman&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/kayzuhosting?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/kayzuhosting?color=blue&style=flat-square"></a>
+<a href="https://github.com/kayzuhosting/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/kayzuhosting?color=red&style=flat-square"></a>
+<a href="https://github.com/kayzuhosting/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kayzuhosting?color=red&style=flat-square"></a>
+<a href="https://github.com/kayzuhosting/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kayzuhosting?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkayzuhosting&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 <details>
  <summary>😔 Help me!</summary>
  
- [Saweria](https://saweria.co/akirayt)
+ [QRIS](https://f.uguu.se/cAupgKUa)
  
 </details>
 
@@ -34,9 +34,9 @@
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/akirashopreal" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://m.youtube.com/channel/UCvVd-kAsrJUjg0bwKqxUPeg" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
-<a href="https://wa.me/6282158549899" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://www.instagram.com/kayy_xydl" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://youtube.com/@kayzuhosting?si=sZqFX7Jk7IpV96uo" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://wa.me/6289673462138" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 </p>
 
 
@@ -52,22 +52,14 @@ termux
 
 ## Getting Started
 
-This project require NodeJS v12
+This project require NodeJS v20+
 
 ### Install
 Clone this project
 
 ```bash
-$ git clone https://github.com/AkiRaID/selfbot-lolhuman.git
-$ cd selfbot-lolhuman
-```
-
-Install the dependencies:
-
-```bash
-$ pkg install nodejs
-$ pkg install imagemagick
-$ bash install.sh
+$ git clone https://github.com/kayzuhosting/Sagiri-Izumi-kay.git
+$ cd Sagiri-Izumi-kay
 ```
 
 ### Usage
