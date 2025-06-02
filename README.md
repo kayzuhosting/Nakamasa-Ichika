@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="#"><img title="Whatsapp Bot" src="https://img.shields.io/badge/Whatsapp%20Bot-ONLINE-green?style=for-the-badge&logo=whatsapp"></a>
-  <a href="#"><img title="Bot Version" src="https://img.shields.io/badge/BOT-V1.0.0-blue?style=for-the-badge"></a>
-  <a href="#"><img title="API" src="https://img.shields.io/badge/API-FREE-lightgrey?style=for-the-badge"></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/kayzuhosting">
     <img title="Author" src="https://img.shields.io/badge/AUTHOR-KAY%20RAMADHAN-orange.svg?style=for-the-badge&logo=github">
   </a>
