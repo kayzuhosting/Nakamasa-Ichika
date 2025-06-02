@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/j2wwtl.jpeg" width="200" alt="Project Banner"/>
+  <img src="https://tmpfiles.org/dl/638071/1748886643660.jpg" width="200" alt="Project Banner"/>
 </p>
 
 <p align="center">
