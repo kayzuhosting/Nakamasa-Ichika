@@ -6,6 +6,16 @@
   <a href="https://github.com/kayzuhosting">
     <img title="Author" src="https://img.shields.io/badge/AUTHOR-KAY%20RAMADHAN-orange.svg?style=for-the-badge&logo=github">
   </a>
+  <img src="https://img.shields.io/badge/MADE%20WITH-JAVASCRIPT-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/PLATFORM-TERMUX-black?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://github.com/kayzuhosting">
+    <img title="Author" src="https://img.shields.io/badge/AUTHOR-KAY%20RAMADHAN-orange.svg?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 <p align="center">
