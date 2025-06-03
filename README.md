@@ -13,12 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kayzuhosting">
-    <img title="Author" src="https://img.shields.io/badge/AUTHOR-KAY%20RAMADHAN-orange.svg?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
