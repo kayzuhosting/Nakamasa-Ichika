@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kayzuhosting/upload-db-media/main/uploader/f49e787421.jpg" width="1200" alt="Project Banner"/>
+  <img src="https://raw.githubusercontent.com/kayzuhosting/upload-db-media/main/uploader/f49e787421.jpg" width="1600" alt="Project Banner"/>
 </p>
 
 <p align="center">
@@ -48,14 +48,18 @@ Saya **Kay Ramadhan** (Kayzu), pengembang bot WhatsApp yang aktif di dunia pemro
 
 Alat yang diperlukan:
 - WhatsApp
-- Termux (atau terminal NodeJS)
-- 2 Handphone (satu buat bot, satu buat scan QR)
+- Termux (atau terminal NodeJS)/Panel
+- 1 Handphone 
 
 ---
 
 ## 🚀 Cara Install
 
-**Scan QR** yang muncul di terminal untuk menghubungkan bot ke WhatsApp kamu.
+- Siapkan panel
+- Siapkan Sc
+- Run bot
+- Masukin kode pairing
+- Izumi siap di gunakan
 
 ---
 
