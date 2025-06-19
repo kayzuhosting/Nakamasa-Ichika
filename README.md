@@ -44,25 +44,6 @@ Saya **Kay Ramadhan** (Kayzu), pengembang bot WhatsApp yang aktif di dunia pemro
 
 ---
 
-## 🛠️ Tools
-
-Alat yang diperlukan:
-- WhatsApp
-- Termux (atau terminal NodeJS)/Panel
-- 1 Handphone 
-
----
-
-## 🚀 Cara Install
-
-- Siapkan panel
-- Siapkan Sc
-- Run bot
-- Masukin kode pairing
-- Izumi siap di gunakan
-
----
-
 <div align="center">
 <details>
  <summary>😔 Help me!</summary>
