@@ -30,7 +30,7 @@ Saya **Kay Ramadhan** (Kayzu), pengembang bot WhatsApp yang aktif di dunia pemro
 
 - 🎯 **Fokus:** Bot WhatsApp, API, & Tool Otomatisasi  
 - 📍 **Domisili:** 🇮🇩 Indonesia (Sumatera)  
-- 🧠 **Skill:** Node.js, Cheerio, WA Web API, JSON, Obfuscator  
+- 🧠 **Skill:** Java Script,Fiks eror,Instalasi Penerangan,panel,Pembelajaran sederhana dan lain-lain
 - 🔧 **Aktif:** Kolaborasi proyek, bantu komunitas digital
 
 ---
