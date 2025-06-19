@@ -57,10 +57,9 @@ Saya **Kay Ramadhan** (Kayzu), pengembang bot WhatsApp yang aktif di dunia pemro
 
 ## 🙏 Thanks to
 
-- [Roy](https://github.com/Pxc7b)
-- [Riu](https://github.com/Pxc7)
-- [MhankBarBar](https://github.com/MhankBarBar)
-- [LolHuman](https://github.com/LoL-Human)
+- Ehanz
+- All Dev Scrape
+- Diri Sendiri
 
 ---
 
