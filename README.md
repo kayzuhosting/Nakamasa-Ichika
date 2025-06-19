@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kayzuhosting/upload-db-media/main/uploader/b725a45fe3.jpg" width="1600" alt="Project Banner"/>
+  <img src="https://raw.githubusercontent.com/kayzuhosting/Shiroko-Multidevice/main/database/64f150dc8d.jpg" width="2100" alt="Project Banner"/>
 </p>
 
 <p align="center">
